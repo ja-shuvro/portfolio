@@ -1,0 +1,51 @@
+{
+	"contact": [
+		{
+			"person": "Phone",
+			"link": "tel:+8801728723881",
+			"note": "+8801728723881"
+		},
+		{
+			"person": "WhatsApp",
+			"link": "https://wa.link/v16v2t",
+			"note": "Let’s discuss your ideas!"
+		},
+		{
+			"person": "Mail",
+			"link": "mailto:8199shuvro@gmail.com",
+			"note": "Feel free to reach out, and let's discuss your project."
+		},
+		{
+			"person": "Github",
+			"link": "https://github.com/SahriarShuvro",
+			"note": "Feel free to reach out if you’d like to discuss any project ideas or collaborations!"
+		}
+	],
+	"recentProjects": [
+		{
+			"person": "Student Square",
+			"link": "https://www.studentsquare.org",
+			"note": "Explore our platform for engaging educational resources and community connections!"
+		},
+		{
+			"person": "Job Career",
+			"link": "https://job.consoledge.com",
+			"note": "Discover exciting job opportunities and enhance your career prospects!"
+		},
+		{
+			"person": "Rent Sale BD",
+			"link": "https://www.rentsalebd.com",
+			"note": "Explore the best deals for renting and buying properties in Bangladesh!"
+		}
+	],
+	"social": [
+		{
+			"url": "https://www.linkedin.com/in/jashuvro/",
+			"icon": "linkedin"
+		},
+		{
+			"url": "https://github.com/ja-shuvro",
+			"icon": "github"
+		}
+	]
+}

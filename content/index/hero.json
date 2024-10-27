@@ -1,0 +1,29 @@
+{
+	"intro": {
+		"start": "const JA Shuvro = ( name, passion ) =>",
+		"end": "Hello, my name is",
+		"speed": 60,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 12000
+	},
+	"header": {
+		"name": "JA Shuvro.",
+		"usp": "Full-stack developer with React.js and Node.js expertise."
+	},
+	"paragraph": "Full-stack developer with expertise in React.js, Next.js, Nest.js Node.js, MySQL, and MongoDB, seeking a front-end developer position, with a passion for creating dynamic and user-friendly web applications.",
+	"buttons": {
+		"primary": {
+			"title": "Contact Me",
+			"url": "",
+			"leaveSite": false
+		},
+		"secondary": {
+			"title": "LinkedIn",
+			"url": "",
+			"leaveSite": "true"
+		}
+	}
+}
